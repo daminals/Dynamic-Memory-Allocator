@@ -1,4 +1,4 @@
-[![Dynamic Memory Allocation Tests](https://github.com/daminals/Dynamic-Memory-Allocator/actions/workflows/dynamicmemalloc.yml/badge.svg)](https://github.com/daminals/Dynamic-Memory-Allocator/actions/workflows/dynamicmemalloc.yml)
+![github repo badge: Language](https://img.shields.io/badge/Language-C-181717?color=blue) ![github repo badge: Testing](https://img.shields.io/badge/Testing-Criterion-181717?color=orange) ![github repo badge: OS](https://img.shields.io/badge/OS-Linux-181717?color=yellow) [![Dynamic Memory Allocation Tests](https://github.com/daminals/Dynamic-Memory-Allocator/actions/workflows/dynamicmemalloc.yml/badge.svg)](https://github.com/daminals/Dynamic-Memory-Allocator/actions/workflows/dynamicmemalloc.yml)
 # Dynamic Memory Allocator
 
 This is a dynamic memory allocator implemented in C, which allows users to allocate, reallocate, and free memory at runtime.
