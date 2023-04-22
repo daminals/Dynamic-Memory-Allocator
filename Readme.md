@@ -10,6 +10,21 @@ This is a dynamic memory allocator implemented in C, which allows users to alloc
 - Allocation alignment to ensure proper data structure alignment and improve performance
   - Support for any multiple of 8-byte alignment through memalign function
 
+## Installation
+
+The dependencies for this project are all included in the Makefile, and you can install and run it utilizing the following commands
+```bash
+git clone https://github.com/daminals/Dynamic-Memory-Allocator.git
+cd Dynamic-Memory_allocator
+make clean all
+```
+You will now be able to play with the different functions in this library
+To run the test cases, you should first install the Criterion library, and then you can run 
+```bash
+bin/sfmm_tests
+```
+
+
 ## Usage
 
 To use the allocator, you can call the following functions:
